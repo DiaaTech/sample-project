@@ -1,0 +1,5 @@
+## Create a new branch in the format <feature/your-first-name-intro>
+## Write one paragraph about you
+## Add the changes
+## Commit the changes
+## push your changes to remote branch
