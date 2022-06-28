@@ -5,3 +5,4 @@
 ## push your changes to remote branch
 
 My name is Seenaa. I live in Columbus.
+I love coding. My favorite languages are java and python.
