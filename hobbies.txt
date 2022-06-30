@@ -1,2 +1,3 @@
 hobbies.txt
 My hobbies include working out.
+I also enjoy cooking.
