@@ -3,3 +3,5 @@
 ## Add the changes
 ## Commit the changes
 ## push your changes to remote branch
+
+My name is Samuel Tesfou and I'm from Columbus, OH. 
